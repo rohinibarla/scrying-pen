@@ -1,3 +1,5 @@
+#TODO: can you make this work on iOS?
+
 # Scrying Pen
 
 This pen's ink stretches backwards into the past and forwards into possible futures. The two sides make a strange loop: the future ink influences how you draw, which in turn becomes the new "past" ink influencing further future ink.
